@@ -1,0 +1,6 @@
+region,rmse_2024,best_params
+Rakhiyal,8.417305317782152,"{'seasonal_periods': 168, 'seasonal': 'mul', 'trend': 'mul'}"
+Bopal,8.76912747627087,"{'seasonal_periods': 24, 'seasonal': 'mul', 'trend': None}"
+Ambawadi,8.76912747627087,"{'seasonal_periods': 24, 'seasonal': 'mul', 'trend': None}"
+Chandkheda,7.576504685080971,"{'seasonal_periods': 24, 'seasonal': 'mul', 'trend': 'mul'}"
+Vastral,7.838455425956085,"{'seasonal_periods': 24, 'seasonal': 'mul', 'trend': 'mul'}"
