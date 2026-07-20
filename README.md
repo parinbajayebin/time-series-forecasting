@@ -118,8 +118,8 @@ The web dashboard will automatically open in your default browser at `http://loc
 
 ## 👥 Contributing
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/parinbajayebin/time-series-forecasting/issues).
+* **Parin Makwana**  
+  🔗 [GitHub](https://github.com/parinbajayebin) | 🔗 [LinkedIn](https://www.linkedin.com/in/parin-makwana-b614a6333)
 
 ---
 
